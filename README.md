@@ -35,7 +35,7 @@ As funcionalidades disponíveis para os usuários estão listadas abaixo:
 
 ### 🌐 Acesso
 
-🖇️ [Acesse o link para visualizar o projeto em tempo real](https://milton-salgado.github.io/about-me/)
+🖇️ [Clique aqui para acessar o projeto](https://milton-salgado.github.io/about-me/)
 
 ### 📸 Prévia
 
@@ -78,7 +78,7 @@ Ao fazer esse projeto, aprendi a:
 
 ## ✒️ Autores
 
-* **Milton Salgado Leandro** - *Todo o Projeto* - [👨🏻‍💻 milton-salgado](https://github.com/milton-salgado)
+* **Milton Salgado Leandro** - *Todo o Projeto* - [GitHub](https://github.com/milton-salgado)
 
 ## 🎁 Agradecimentos
 
