@@ -22,7 +22,7 @@ Uma página web sobre mim.
 ## 📋 Descrição
 
 Este é um projeto de uma página web simples, contendo algumas informações e curiosidades sobre mim.
-Esse projeto foi o desafio 01 do curso "Vai na Web", e tinha como proposta introduzir os principais conceitos de HTML (com pequenos ajustes com CSS) para construção e identificação de elementos em páginas semânticas.
+Esse projeto foi o desafio 01 do módulo 01 do curso de front-end do "Vai na Web", e tinha como proposta introduzir os principais conceitos de HTML (com pequenos ajustes com CSS) para construção e identificação de elementos em páginas semânticas.
 
 ### 🚀 Funcionalidades
 
@@ -39,7 +39,9 @@ As funcionalidades disponíveis para os usuários estão listadas abaixo:
 
 ### 📸 Prévia
 
-![Desktop Design](./img/desktop-index.png)
+<div align="center">
+  <img src="./img/desktop-index.png">
+</div>
 
 ## ⚙️ Construção
 
